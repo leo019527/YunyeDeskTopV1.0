@@ -1,0 +1,26 @@
+<component name="libraryTable">
+  <library name="pdfbox-1.8.13">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/lbs/PDFBox/pdfbox-1.8.13.jar" />
+      <root url="jar://$PROJECT_DIR$/lbs/POI3.15/commons-codec-1.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lbs/POI3.15/commons-logging-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lbs/POI3.15/commons-collections4-4.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lbs/POI3.15/curvesapi-1.04.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lbs/POI3.15/junit-4.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lbs/POI3.15/poi-3.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lbs/POI3.15/log4j-1.2.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lbs/POI3.15/poi-examples-3.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lbs/POI3.15/poi-excelant-3.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lbs/POI3.15/poi-ooxml-3.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lbs/POI3.15/poi-ooxml-schemas-3.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lbs/POI3.15/poi-scratchpad-3.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lbs/POI3.15/xmlbeans-2.6.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lbs/aliPay/dangmianfu_demo_java.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lbs/aliPay/dangmianfu_demo_java.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lbs/aliPay/dangmianfu_demo_java.jar!/com/alipay/api" />
+    </SOURCES>
+  </library>
+</component>
